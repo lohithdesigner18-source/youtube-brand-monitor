@@ -1,0 +1,9 @@
+streamlit
+opencv-python-headless
+numpy
+pandas
+google-api-python-client
+openai-whisper
+yt-dlp
+openpyxl
+imageio-ffmpeg
